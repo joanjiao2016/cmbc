@@ -5,3 +5,5 @@ feature
 addforrebase
 add a
 add b
+add f
+
